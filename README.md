@@ -1,4 +1,14 @@
-### Hi there 👋
+# About Me
+
+<img align='right' src="https://github-readme-stats.zohan.tech/api?username=SWfeiyu&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" width="400">
+
+- 🔭Hi, my ID is SWfeiyu.
+- 🌱I`m a E-DIY enthusiasts.
+- 👯I`m currently learning embedded, cloud computing and cyber security.
+- 😄One of the managers of NUC-A413 lab
+- 🤔The member of Freak Embedded Studios
+- 💬Active on QQ often. My QQ is 2013162616.
+- 📫Can also tell me with email:2013162616@qq.com
 
 <!--
 **swfeiyu/swfeiyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
