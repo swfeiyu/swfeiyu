@@ -6,13 +6,11 @@
 - 🌱I`m a E-DIY enthusiasts.
 - 👯I`m currently learning embedded, cloud computing and cyber security.
 - 😄One of the managers of NUC-A413 lab
-- 🤔The member of Freak Embedded Studios
+- 🤔The member of both Freak Embedded Studios and NUC_NetWork&BIG_DATA lab
 - 💬Active on QQ often. My QQ is 2013162616.
 - 📫Can also tell me with email:2013162616@qq.com
 
 <!--
-**swfeiyu/swfeiyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
