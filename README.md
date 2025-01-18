@@ -1,24 +1,17 @@
-# About Me
+# Hi there!
 
-<img align='rigth' src="https://github-readme-stats.zohan.tech/api?username=SWfeiyu&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" width="400">
+![Taboo's GitHub stats](https://github-readme-stats.vercel.app/api?username=swfeiyu)
 
-- 🔭Hi, my ID is SWfeiyu.
-- 🌱I`m a E-DIY enthusiasts.
+- 🔭Hi, my name is Taboo.
+- 🌱I`m a E-DIY enthusiasts and a ham.
 - 👯I`m currently learning embedded, cloud computing and cyber security.
 - 😄One of the managers of NUC-A413 lab
 - 🤔The member of both Freak Embedded Studios and NUC_NetWork&BIG_DATA lab
 - 💬Active on QQ often. My QQ is 2013162616.
-- 📫Can also tell me with email:2013162616@qq.com
+- 📫Can also tell me with email: 2013162616@qq.com
 
-<!--
-Here are some ideas to get you started:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swfeiyu&layout=compact)](https://github.com/swfeiyu/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Taboo's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=swfeiyu)
+
+You are the ![Visitor Count](https://profile-counter.glitch.me/swfeiyu/count.svg) visitor.
